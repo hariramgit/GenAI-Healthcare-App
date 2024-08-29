@@ -5,7 +5,7 @@ The AI Mini HealthCare App is a web tool enabling users to analyze food images f
 
 ## Contributing
 
-Contributions to the AI Mini HealthCare App are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
+Contributions to the AI Mini HealthCare App are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.Welcome.
 
 ## License
 
